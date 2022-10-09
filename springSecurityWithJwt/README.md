@@ -8,7 +8,7 @@
   ![](https://github.com/AadityaUoHyd/springboot-security-jwt-implementation/blob/master/springSecurityWithJwt/diagram.png)
 
 - Stage#2 – JWT Util class code.
-  * Generate token using subject
+  * Generate token using subject.
   * Validate token using username, subject and expiry date.
 
 - Stage#3 – JWT Token generation without spring boot security
